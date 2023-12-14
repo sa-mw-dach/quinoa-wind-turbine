@@ -9,6 +9,6 @@
 2. fork the ...-manifests repo (https://github.com/sa-mw-dach/quinoa-wind-turbine-manifests)
 3. install the application according to the Readme there (way smaller and way more automated!)
 4. implement cool stuff
-5. Profit
+5. Profit?
 
 
